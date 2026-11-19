@@ -51,3 +51,5 @@ Expected Outcome
 After running the SQL script, the database contains five related tables with sample records. The assignment queries can be executed to demonstrate CRUD operations, joins, aggregate functions, subqueries, date and string functions, CASE, and a running total.
 Author
 University Course Management System - SQL Final Project
+
+Explanation Video : https://drive.google.com/file/d/1scsneHrYFFxFykg-iuBcR0yoLgQXq26a/view?usp=sharing
